@@ -67,11 +67,9 @@ The app provides the following interactive features:
 
 Here are some screenshots of the application:
 
-- **Hotspot and Scooter Overview**
-- **Random Scooter Navigation**
-- **Hotspot Proximity Filtering**
+![WhatsApp Image 2024-10-31 at 15 50 34(1)](https://github.com/user-attachments/assets/a216be06-b0ad-4c49-9f46-c6519f4608c8)
+![WhatsApp Image 2024-10-31 at 15 50 34](https://github.com/user-attachments/assets/36d538bf-f853-4345-9832-f749cb1e862e)
 
-> _Add images to the repository under a `screenshots` directory and link them here._
 
 ## Future Enhancements
 
